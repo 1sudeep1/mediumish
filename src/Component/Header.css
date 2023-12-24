@@ -1,0 +1,33 @@
+.navbar{
+    padding: 5px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.178);
+    background: blueviolet;
+}
+
+.top{
+    background: red;
+    animation: tt 0.9s;
+}
+@keyframes tt {
+    0%{transform: translateY(-200px);}
+    100%{transform: translateY(0);}
+}
+
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+    color: white;
+}
+.search{
+    position: relative;
+    .form-control{
+        border-radius: 20px;
+        padding: 4px 0 4px 10px;
+    }
+}
+.searchicon{
+    position: absolute;
+    top:7px; right: 30px;
+}
+.nav-link{
+    color: white;
+}

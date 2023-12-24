@@ -1,0 +1,42 @@
+.pp{
+    margin-top:10%;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding: 5px 0;
+    color: gray;
+}
+i{
+    color: gray;
+}
+.iconimage1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.follow{
+    display: inline-block;
+    border-radius: 20px;
+    width: 70px;
+    padding-left: 15px;
+
+    border: 1px solid green;
+}
+.d{
+    margin-left: -30px;
+    color: gray;
+}
+.bl{
+    border-left: 2px solid green;
+    padding-left: 10px;
+}
+.last{
+    border-top: 1px solid gray;
+    padding-top: 20px;
+}
+
+.m{
+    margin-top: 20%;
+}

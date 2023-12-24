@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body{
+    font-size: 0.9rem;
+}
+
+@media (max-width:576px){
+    .blockmain{
+        margin-top: 15% !important;
+    }
+    .bcont{
+        margin-top: 10px;
+    }
+
+    .ff{
+        text-align: center;
+    }
+    .lf{
+        text-align: center !important;
+    }
+    .side{
+        text-align: center;
+    }
+    .pp{
+        margin: 20% 0!important;
+    }
+}
